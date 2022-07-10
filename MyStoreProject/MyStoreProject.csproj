@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <Folder Include="Logo\" />
-    <Folder Include="Logs\" />
     <Folder Include="Screenshot\" />
   </ItemGroup>
 

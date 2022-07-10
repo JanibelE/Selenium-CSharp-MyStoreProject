@@ -1,0 +1,16 @@
+2022-07-10 16:28:03 INFO  IndexPage_Test:27 - =====================================VerifyLogo TEST START=========================================
+2022-07-10 16:28:03 INFO  IndexPage_Test:40 - Validating logo.
+2022-07-10 16:28:03 INFO  IndexPage_Test:40 - Logo validated.
+2022-07-10 16:28:03 INFO  IndexPage_Test:40 - Test success
+2022-07-10 16:28:03 INFO  IndexPage_Test:32 - =====================================VerifyLogo TEST END=========================================
+2022-07-10 16:28:38 INFO  IndexPage_Test:27 - =====================================VerifyTitle TEST START=========================================
+2022-07-10 16:28:39 INFO  IndexPage_Test:40 - Test success
+2022-07-10 16:28:39 INFO  IndexPage_Test:32 - =====================================VerifyTitle TEST END=========================================
+2022-07-10 16:30:04 INFO  IndexPage_Test:27 - =====================================VerifyLogo TEST START=========================================
+2022-07-10 16:30:04 INFO  IndexPage_Test:40 - Validating logo.
+2022-07-10 16:30:04 INFO  IndexPage_Test:40 - Logo validated.
+2022-07-10 16:30:04 INFO  IndexPage_Test:40 - Test success
+2022-07-10 16:30:04 INFO  IndexPage_Test:32 - =====================================VerifyLogo TEST END=========================================
+2022-07-10 16:30:44 INFO  IndexPage_Test:27 - =====================================VerifyTitle TEST START=========================================
+2022-07-10 16:30:44 INFO  IndexPage_Test:40 - Test success
+2022-07-10 16:30:44 INFO  IndexPage_Test:32 - =====================================VerifyTitle TEST END=========================================
